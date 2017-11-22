@@ -1,0 +1,22 @@
+{
+  "name": "jsflat",
+  "version": "0.0.0",
+  "description": "Flatten/unflatten nested Javascript objects in CLI",
+  "bin": {
+    "jsflat": "jsflat.js",
+    "jsunflat": "jsunflat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/jsflat.git"
+  },
+  "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsumer/jsflat/issues"
+  },
+  "homepage": "https://github.com/konsumer/jsflat#readme",
+  "dependencies": {
+    "flat": "^4.0.0"
+  }
+}
