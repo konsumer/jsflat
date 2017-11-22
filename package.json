@@ -1,6 +1,6 @@
 {
   "name": "jsflat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Flatten/unflatten nested Javascript objects in CLI",
   "bin": {
     "jsflat": "jsflat.js",
