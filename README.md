@@ -25,5 +25,5 @@ You can use it with other tools like the awesome [jq](https://stedolan.github.io
 **Highlight**
 
 ```
-cat package.json| ./jsflat.js | jq .
+cat package.json| jsflat | jq .
 ```
