@@ -2,6 +2,8 @@
 
 Flatten/unflatten nested Javascript objects in CLI
 
+> **DEPRACATED**: Flat has it's own CL, now.
+
 ## install
 
 `npm i -g jsflat`
