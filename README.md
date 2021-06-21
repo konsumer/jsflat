@@ -2,7 +2,7 @@
 
 Flatten/unflatten nested Javascript objects in CLI
 
-> **DEPRACATED**: Flat has it's own CL, now.
+> **DEPRACATED**: Flat has it's own CLI, now.
 
 ## install
 
